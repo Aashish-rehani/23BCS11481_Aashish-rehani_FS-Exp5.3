@@ -1,8 +1,8 @@
-# 📘 Experiment 5.1 — E-commerce Catalog with Nested Document Structure in MongoDB
+# 📘 Experiment 5.3 — E-commerce Catalog with Nested Document Structure in MongoDB
 
 ## 🧩 Objective
 
-This section documents the step-by-step process and corresponding screenshots for **Experiment 5.1**.
+This section documents the step-by-step process and corresponding screenshots for **Experiment 5.3**.
 
 ## 🪜 Steps and Screenshots
 
