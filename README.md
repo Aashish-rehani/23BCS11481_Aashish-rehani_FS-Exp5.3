@@ -30,4 +30,4 @@ Displays filtered products by **variant** (e.g., size, color).
 
 
 
-### ✍️ Made By: **Rohit Gupta**
+### ✍️ Made By: **Aashish Rehani**
